@@ -20,15 +20,10 @@ This project demonstrates how to build an Employee Database System in Java using
 To use this Employee Database System, follow the steps below:
 
 - Clone or download the project files to your local machine.
-
 - Import the project into your preferred IDE.
-
 - Configure your database connection properties, such as database URL, username, password, and driver class, in the `application.properties` file.
-
 - Build the project using Maven or your IDE's build tools.
-
 - Run the application, which will start the Employee Database System.
-
 - Use the provided API or user interface to perform CRUD operations on the employees in the database.
 
 ## Usage
