@@ -27,7 +27,7 @@ To use this Employee Database System, follow the steps below:
 - Use the provided API or user interface to perform CRUD operations on the employees in the database.
 
 ## Usage
-The Employee Database System provides APIs or user interface to perform CRUD operations on employees. You can use the available endpoints or UI to:
+The Employee Database System provides APIs or user interface to perform CRUD operations on employees. Use the available endpoints or UI to:
 
 - Add a new employee to the database
 - Retrieve employee details by ID, name, or other criteria
